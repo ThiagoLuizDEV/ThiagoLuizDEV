@@ -2,11 +2,11 @@
 
 <h2>Sobre mim</h2>
 <img src="https://github.com/ThiagoLuizDEV/ThiagoLuizDEV/blob/main/ezgif.com-crop.gif?raw=true" alt="programando" width="330" align="right" style="margin-left: 50px; border-radius: 150px;">
-<p>🤓 Sou um desenvolvedor web Fullstack apaixonado por tecnologia e sempre em busca de novos desafios. Tenho 20 anos e moro em Recife, capital do estado de Pernambuco.</p>
-<p>📚 Atualmente, estou me formando na Trybe e me aprofundando em Backend, mas também adoro trabalhar com Frontend e deixar as coisas visualmente atraentes.</p>
-<p>💻 Tenho habilidades em JavaScript, React, NodeJs, e outras tecnologias. Além disso, sou muito bom em comunicação clara e trabalho em equipe, o que me permite colaborar efetivamente em projetos em grupo.</p>
-<p>🚀 Fora da programação, sou fascinado por ficção científica e futurologia, e sempre procuro explorar as últimas tendências e tecnologias em todas as áreas.</p>
-<p>🤝 Estou sempre aberto a novas oportunidades e desafios, então, se quiser saber mais sobre mim ou como posso ajudar em seu projeto, entre em contato!</p>
+<p>🤓 Meu nome é Thiago Luiz e sou um desenvolvedor web fullstack com grande paixão por tecnologia e inovação. Desde muito novo, eu sempre fui fascinado por computadores e tudo que envolve a tecnologia, por isso decidi me tornar um desenvolvedor web.</p>
+<p>📚 Trabalhar em equipe é um dos meus pontos fortes. Acredito que a colaboração é fundamental para alcançar resultados de qualidade em projetos de desenvolvimento web, e gosto de compartilhar ideias e opiniões com colegas de equipe.</p>
+<p>💻 Tenho um vasto conhecimento em diversas tecnologias, incluindo JavaScript, CSS, HTML, React, Jest/RTL, Node.js, Git & Github, Redux, TypeScript, Mysql e Docker. Sempre busco me manter atualizado sobre as tendências e novidades do mercado, para poder oferecer soluções inovadoras e eficientes em meus projetos.</p>
+<p>🚀 Além disso, sou uma pessoa que gosta bastante de aprender sobre hardwares e saúde nos meus momentos livres. Acredito que a busca pelo conhecimento em diversas áreas é fundamental para o crescimento pessoal e profissional.</p>
+<p>🤝 Atualmente, estou estudando desenvolvimento web na Trybe, onde tenho a oportunidade de aprofundar meu conhecimento e aprimorar minhas habilidades.</p>
 
 
 <h2 align="center">🛠️ Habilidades</h2>
