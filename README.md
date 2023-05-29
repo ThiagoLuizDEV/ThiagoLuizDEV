@@ -36,7 +36,7 @@
 
 <div align="center">
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats:
 ![ThiagoLuizDEV GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoLuizDEV&show_icons=true&theme=radical)
 </div>
 
